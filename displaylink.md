@@ -4,6 +4,6 @@ source: https://askubuntu.com/questions/1507373/install-displaylink-drivers-on-u
 wget https://www.synaptics.com/sites/default/files/Ubuntu/pool/stable/main/all/synaptics-repository-keyring.deb
 sudo dpkg -i synaptics-repository-keyring.deb
 sudo apt update
-sudo apt install displaylink-driver
+sudo apt install displaylink-driver curl git -y
 sudo reboot
 ```
