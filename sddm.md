@@ -35,7 +35,7 @@ qml-module-qtquick-controls \
 qml-module-qtquick-controls2 \
 qml-module-qtquick-layouts \
 qml-module-qtgraphicaleffects \
-qml-module-qtmultimedia
+qml-module-qtmultimedia -y
 ```
 
 ---
